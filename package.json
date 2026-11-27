@@ -1,0 +1,13 @@
+{
+  "name": "blood-donor-finder",
+  "version": "1.0.0",
+  "description": "GPS Blood Donor Finder with Node.js and Express backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,14 @@
+BLOOD DONOR FINDER — START HERE
+
+1. Extract the ZIP folder.
+2. Open the extracted Blood_Donor_Finder_Complete folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Run: npm install
+5. Run: npm start
+6. Open Chrome: http://localhost:3000
+7. Allow location permission to use GPS.
+
+If the map does not load, check your internet connection.
+For GPS, use localhost (not by opening index.html directly).
+
+This is a demo project. Donor details are sample data; verify all donor and hospital details before any real emergency use.

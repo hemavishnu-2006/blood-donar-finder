@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Ravi",
+    "blood": "O+",
+    "location": "Vijayawada",
+    "phone": "9876543210",
+    "lat": 16.5062,
+    "lng": 80.648
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "blood": "A+",
+    "location": "Vijayawada",
+    "phone": "8765432109",
+    "lat": 16.5151,
+    "lng": 80.6326
+  },
+  {
+    "id": 3,
+    "name": "Suresh",
+    "blood": "B+",
+    "location": "Guntur",
+    "phone": "7654321098",
+    "lat": 16.3067,
+    "lng": 80.4365
+  },
+  {
+    "id": 4,
+    "name": "Anitha",
+    "blood": "AB+",
+    "location": "Vijayawada",
+    "phone": "9123456780",
+    "lat": 16.52,
+    "lng": 80.62
+  },
+  {
+    "id": 5,
+    "name": "Kiran",
+    "blood": "O-",
+    "location": "Tadepalli",
+    "phone": "9234567810",
+    "lat": 16.482,
+    "lng": 80.6
+  },
+  {
+    "id": 6,
+    "name": "Deepika",
+    "blood": "B-",
+    "location": "Poranki",
+    "phone": "9345678120",
+    "lat": 16.47,
+    "lng": 80.715
+  }
+]
